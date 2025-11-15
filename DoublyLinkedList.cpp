@@ -2,7 +2,7 @@
  * @file DoublyLinkedList.cpp
  * @brief Implementacja metod dla klasy DoublyLinkedList.
  *
- * Ten plik zawiera definicje metod zadeklarowanych w `DoublyLinkedList.h`.
+ * Ten plik zawiera definicje metod zadeklarowanych w `DoublyLinkedList.h` TAK.
  */
 
 #include "DoublyLinkedList.h"

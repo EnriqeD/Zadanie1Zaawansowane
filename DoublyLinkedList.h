@@ -1,6 +1,6 @@
 /**
  * @file DoublyLinkedList.h
- * @brief Deklaracja klasy DoublyLinkedList.
+ * @brief Deklaracja klasy DoublyLinkedList. TAK
  */
 
 #pragma once
